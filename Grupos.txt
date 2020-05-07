@@ -15,6 +15,7 @@ LISP:
 Pascal:
 	Carlos
 	Alejandro
+    PEDRO
 Cobol:
 	Alexandra
 	Hilary
